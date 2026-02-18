@@ -20,7 +20,7 @@ Java
 Spring Boot  
 Apache Kafka  
 REST APIs  
-JPA / Hibernate  
+JPA  
 H2 Database  
 Maven  
 
