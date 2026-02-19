@@ -38,6 +38,19 @@ Automated test execution with TaskFiveTests
 2. Run the Spring Boot application
 3. Execute TaskFiveTests
 
+## Example API Call
+
+Retrieve a user's balance:
+
+GET http://localhost:33400/balance?userId=1
+
+Response example:
+
+{
+  "amount": 100.0
+}
+
+
 ## Author
 
 Amrit Singh Ahuja  
